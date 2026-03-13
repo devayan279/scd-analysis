@@ -1,7 +1,6 @@
 -- ============================================================
 -- Query 3: Shipping lead time analysis by ship mode & region
 -- Concept : Supplier lead time, distribution planning
--- o9 link : o9 tracks lead times as key supply chain inputs
 -- ============================================================
 
 WITH lead_times AS (
