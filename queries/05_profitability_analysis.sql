@@ -1,7 +1,6 @@
 -- ============================================================
 -- Query 5: Profitability vs discount impact by category
 -- Concept : S&OP, margin analysis
--- o9 link : Profitability is a core output of o9's planning runs
 -- ============================================================
 
 WITH discounted AS (
