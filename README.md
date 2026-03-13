@@ -120,35 +120,35 @@ Raw CSV Data
 ## 📈 Sample Outputs
 
 ### 🗺️ S&OP Executive Dashboard
-![SOP Executive Dashboard](https://raw.githubusercontent.com/devayan279/scd-analysis/main/data/outputs/SOP_Executive_Dashboard.png)
+![SOP Executive Dashboard](https://raw.githubusercontent.com/devayan279/scd-analysis/main/outputs/SOP_Executive_Dashboard.png)
 
 ### 📅 Monthly Sales Trend
-![Monthly Sales Trend](https://raw.githubusercontent.com/devayan279/scd-analysis/main/data/outputs/monthly_sales_trend.png)
+![Monthly Sales Trend](https://raw.githubusercontent.com/devayan279/scd-analysis/main/outputs/monthly_sales_trend.png)
 
 ### 📦 Category Sales Breakdown
-![Category Sales](https://raw.githubusercontent.com/devayan279/scd-analysis/main/data/outputs/category_sales.png)
+![Category Sales](https://raw.githubusercontent.com/devayan279/scd-analysis/main/outputs/category_sales.png)
 
 ### 🌍 Region Sales
-![Region Sales](https://raw.githubusercontent.com/devayan279/scd-analysis/main/data/outputs/region_sales.png)
+![Region Sales](https://raw.githubusercontent.com/devayan279/scd-analysis/main/outputs/region_sales.png)
 
 ### 🏆 Top 10 Products
-![Top 10 Products](https://raw.githubusercontent.com/devayan279/scd-analysis/main/data/outputs/top10_products.png)
+![Top 10 Products](https://raw.githubusercontent.com/devayan279/scd-analysis/main/outputs/top10_products.png)
 
 ### 📈 Yearly Growth
-![Yearly Growth](https://raw.githubusercontent.com/devayan279/scd-analysis/main/data/outputs/yearly_growth.png)
+![Yearly Growth](https://raw.githubusercontent.com/devayan279/scd-analysis/main/outputs/yearly_growth.png)
 
 ### 🔮 Forecasting — Moving Average vs Exponential Smoothing
 | Moving Average | Exponential Smoothing |
 |---|---|
-| ![Moving Average](https://raw.githubusercontent.com/devayan279/scd-analysis/main/data/outputs/moving_average.png) | ![Exp Smoothing](https://raw.githubusercontent.com/devayan279/scd-analysis/main/data/outputs/exp_smoothing.png) |
+| ![Moving Average](https://raw.githubusercontent.com/devayan279/scd-analysis/main/outputs/moving_average.png) | ![Exp Smoothing](https://raw.githubusercontent.com/devayan279/scd-analysis/main/outputs/exp_smoothing.png) |
 
 ### 📊 Model Comparison
-![Model Comparison](https://raw.githubusercontent.com/devayan279/scd-analysis/main/data/outputs/model_comparison.png)
+![Model Comparison](https://raw.githubusercontent.com/devayan279/scd-analysis/main/outputs/model_comparison.png)
 
 ### 🗄️ SQL Analysis Outputs
 | Demand Trend | Profit Margin | Category Sales |
 |---|---|---|
-| ![SQL Demand](https://raw.githubusercontent.com/devayan279/scd-analysis/main/data/outputs/sql_demand_trend.png) | ![SQL Profit](https://raw.githubusercontent.com/devayan279/scd-analysis/main/data/outputs/sql_profit_margin.png) | ![SQL Category](https://raw.githubusercontent.com/devayan279/scd-analysis/main/data/outputs/sql_category_sales.png) |
+| ![SQL Demand](https://raw.githubusercontent.com/devayan279/scd-analysis/main/outputs/sql_demand_trend.png) | ![SQL Profit](https://raw.githubusercontent.com/devayan279/scd-analysis/main/outputs/sql_profit_margin.png) | ![SQL Category](https://raw.githubusercontent.com/devayan279/scd-analysis/main/outputs/sql_category_sales.png) |
 
 ---
 
