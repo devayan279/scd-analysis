@@ -1,7 +1,6 @@
 -- ============================================================
 -- Query 1: Monthly demand trend with 3-month rolling average
 -- Concept : Demand Management, S&OP
--- o9 link : Simulates how o9 tracks demand signals over time
 -- ============================================================
 
 SELECT
