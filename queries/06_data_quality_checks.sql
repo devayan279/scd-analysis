@@ -1,8 +1,6 @@
 -- ============================================================
 -- Query 6: Data quality validation checks
 -- Concept : Integration & ingestion data integrity
--- o9 link : o9 consultants run DQ checks on every customer
---           data load before planning runs begin
 -- ============================================================
 
 -- 1. Null check across critical columns
