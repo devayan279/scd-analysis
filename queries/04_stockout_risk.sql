@@ -1,7 +1,6 @@
 -- ============================================================
 -- Query 4: Stockout risk detection by sub-category
 -- Concept : Demand Management, risk flagging
--- o9 link : o9 uses similar logic to trigger replenishment alerts
 -- ============================================================
 
 WITH monthly_demand AS (
