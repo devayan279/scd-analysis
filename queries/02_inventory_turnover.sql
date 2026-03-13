@@ -1,7 +1,6 @@
 -- ============================================================
 -- Query 2: Inventory turnover rate by sub-category
 -- Concept : Distribution Planning, inventory health
--- o9 link : Core KPI in o9's inventory planning module
 -- Formula : Turnover = Total Sales / Avg Sales per month
 -- ============================================================
 
