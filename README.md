@@ -78,7 +78,7 @@ Raw CSV Data
 
 | Layer | Tools |
 |---|---|
-| Language | Python 3.x |
+| Language | Python 3.13.9 |
 | Data Manipulation | pandas, NumPy |
 | Visualization | matplotlib, seaborn |
 | Database | SQLite3 |
